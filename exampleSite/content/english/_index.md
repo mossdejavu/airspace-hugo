@@ -52,9 +52,9 @@ funfacts:
   description: We have been able to bridge the gap by providing solutions to the problems
     other existing solutions were not looking into.
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+  - icon: ion-archive
+    name: Eco-friendly Products
+    count: "30"
   - icon: ion-ios-glasses-outline
     name: Article Written
     count: "45"
