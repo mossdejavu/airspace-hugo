@@ -68,6 +68,11 @@ funfacts:
   - name: Adejoke Lasisi
     image: images/img-20180814-wa0002.jpg
     designation: CEO-Planet3R
+    content: We also plan to improve our economy through locally generated raw materials
+      and export opportunities.
+  - name: Adejoke Lasisi
+    image: images/img-20180814-wa0002.jpg
+    designation: CEO-Planet3R
     content: 'Our initiative focuses on the empowerment of unemployed youths by training
       them on effective ways to earn income from recycling plastic and textile waste.  '
   - name: Adejoke Lasisi
