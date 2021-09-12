@@ -1,8 +1,8 @@
 ---
 title: Shoe
 description: ''
-image: images/portfolio/work2.jpg
-bg_image: images/feature-bg.jpg
+image: "/images/img_20210331_201540_199.jpg"
+bg_image: "/images/20210128_193941-min_11zon.jpg"
 category: Illustration
 information:
 - label: Client
