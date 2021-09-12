@@ -62,7 +62,7 @@ home = ["HTML"]
 author = "Themefisher"
 description = "This is meta description"
 image = "images/logo.png"
-logo = ""
+logo = "/images/logo-2.jpg"
 logo_width = "150px"
 [params.contact]
 address_descriptors = false
