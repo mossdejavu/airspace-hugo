@@ -55,9 +55,9 @@ funfacts:
   - icon: ion-archive
     name: Eco-friendly Products
     count: "30"
-  - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+  - icon: ion-arrow-expand
+    name: Recycled Clothes and Nylons
+    count: "10000"
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
