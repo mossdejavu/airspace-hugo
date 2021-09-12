@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/img_20210329_230714_673.jpg
+  bg_image: images/20210128_193941-min_11zon.jpg
   bg_overlay: true
   title: Converting Textile & Plastic Wastes<br/>into Eco-Friendly Products
   content: ''
