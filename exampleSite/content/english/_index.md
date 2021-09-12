@@ -12,16 +12,18 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
-  image: images/wrapper-img.png
+  description: "With the vision of creating a sustainable world without textile and
+    plastic wastes, it became necessary for us at Planet 3R to reduce the landfill
+    space by recycling clothes and nylons. \n\nIn my quest to creating more impact,
+    I realized many people in my community usually dump textile and plastic wastes
+    by the road side while some even go to the extent of burning them thereby depleting
+    the ozone layer which is hazardous to our health and environment thus prompted
+    me to use my weaving skills at Jokelinks to create an innovative solution by starting
+    planet 3R initiative."
+  content: "Planet 3R is a social enterprise dedicated to converting textile and plastic
+    wastes into eco-friendly products using the 3R ( Reduce, Reuse, Recycle) to save
+    our planet Earth by weaving them into innovative items. \n\n"
+  image: images/banner-1.jpg
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
