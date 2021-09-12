@@ -61,9 +61,9 @@ funfacts:
   - icon: ion-bonfire
     name: Creative Awareness Programs
     count: "30"
-  - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+  - icon: ion-earth
+    name: Empowerment of Unemployed Youths
+    count: "500"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
