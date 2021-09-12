@@ -60,15 +60,15 @@ min = "0.87.0"
 home = ["HTML"]
 [params]
 author = "Themefisher"
-description = "This is meta description"
-image = "images/logo.png"
-logo = "/images/logo-2.jpg"
+description = ""
+image = "images/logo-2.jpg"
+logo = "images/logo-2.jpg"
 logo_width = "150px"
 [params.contact]
-address_descriptors = false
-email = "demo@email.com"
-location = "**Themefisher**  \nNorth Main Street  \nBrooklyn, New South Wales  \nAustralia\n"
-phone = "0124857985320"
+address_descriptors = true
+email = "adekunlemoses4u@gmail.com"
+location = "2, Olode Street Off Obat filling Station Adegbayi, New-Ife Road Ibadan, Oyo State. Nigeria"
+phone = "+2348050700525"
 [params.contact.form]
 action = "#"
 enable = true
