@@ -23,7 +23,7 @@ about:
   content: "Planet 3R is a social enterprise dedicated to converting textile and plastic
     wastes into eco-friendly products using the 3R ( Reduce, Reuse, Recycle) to save
     our planet Earth by weaving them into innovative items. \n\n"
-  image: images/banner-1.jpg
+  image: images/1_11zon.png
 portfolio:
   enable: true
   bg_image: images/untitled-design-4.png
