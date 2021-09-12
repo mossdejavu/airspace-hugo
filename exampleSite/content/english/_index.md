@@ -3,9 +3,8 @@ banner:
   enable: true
   bg_image: images/img_20210329_230714_673.jpg
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Converting Textile & Plastic Wastes<br/>into Eco-Friendly Products
+  content: ''
   button:
     enable: true
     label: Discover Our Project
