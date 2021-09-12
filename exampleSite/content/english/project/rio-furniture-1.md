@@ -3,22 +3,10 @@ title: Shoe
 description: ''
 image: "/images/img_20210417_215754_010.jpg"
 bg_image: "/images/20210128_193941-min_11zon.jpg"
-category:
-- UI/UX Design
-- Video
+category: Wearables
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Produced By
+  info: Planet3R
 
 ---
 ## Behance Website Redesign
