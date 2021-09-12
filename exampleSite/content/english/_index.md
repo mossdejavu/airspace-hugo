@@ -65,9 +65,9 @@ funfacts:
     name: Empowerment of Unemployed Youths
     count: "500"
   testimonial_slider:
-  - name: Raymond Roy
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
+  - name: Adejoke Lasisi
+    image: images/img-20180814-wa0002.jpg
+    designation: CEO-Planet3R
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
