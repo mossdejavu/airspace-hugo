@@ -1,22 +1,12 @@
 ---
 title: Palm Slippers
-description: this is meta description
+description: ''
 image: "/images/img_20210430_230815_524.jpg"
-bg_image: images/feature-bg.jpg
-category: UI/UX Design
+bg_image: "/images/20210128_193941-min_11zon.jpg"
+category: Slippers
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Produced By
+  info: Planet3R
 
 ---
 ## Behance Website Redesign
