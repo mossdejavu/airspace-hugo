@@ -1,5 +1,5 @@
 ---
-title: Rio Furniture
+title: Palm Slippers
 description: ''
 image: "/images/20210430_165616.jpg"
 bg_image: images/feature-bg.jpg
