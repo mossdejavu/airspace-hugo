@@ -48,10 +48,9 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Our Little Acts
+  description: We have been able to bridge the gap by providing solutions to the problems
+    other existing solutions were not looking into.
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
