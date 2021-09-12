@@ -1,8 +1,8 @@
 ---
-title: Rio Furniture
+title: Shoe
 description: ''
 image: "/images/img_20210417_215754_010.jpg"
-bg_image: images/feature-bg.jpg
+bg_image: "/images/20210128_193941-min_11zon.jpg"
 category:
 - UI/UX Design
 - Video
