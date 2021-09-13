@@ -16,7 +16,7 @@ about:
     voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
     suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
     dolore officia adipisci neque!
-  image: images/company/company-group-pic.jpg
+  image: images/cropped-1.jpg
 featured_service:
   enable: true
   service_item:
