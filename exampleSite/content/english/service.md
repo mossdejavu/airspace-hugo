@@ -6,16 +6,10 @@ layout: service
 about:
   enable: true
   title: Converting Textile and Plastic Wastes into Affordable Eco-friendly Products
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
+  content: |-
+    Our initiative focuses on the empowerment of unemployed youths by training them on effective ways to earn income from recycling plastic and textile waste.  We weave the wastes into eco-friendly products.
+
+    We also engage in Grassroots and Creative Awareness programs geared Towards Achieving a Clean Environment.
   image: images/cropped-1.jpg
 featured_service:
   enable: true
