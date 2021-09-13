@@ -5,7 +5,7 @@ bg_image: images/20210128_193941-min_11zon.jpg
 layout: service
 about:
   enable: true
-  title: Creative UX/UI Design Agency
+  title: Converting Textile and Plastic Wastes into Affordable Eco-friendly Products
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
     corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
     ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
